@@ -1,0 +1,120 @@
+/* Password Page Stylings */
+#protected {
+	text-align: center;
+	padding: 185px;
+}
+
+/* Nav bar in every page */
+#navBar {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	background-color: #D0F0C0;
+	display: none;
+}
+
+/* Items in the nav bar */
+li a {
+	font-weight: 500;
+	font-size: 16px;
+	color: black;
+}
+
+header {
+	display: flex;
+	justify-content: flex-end;
+	padding: 30px 10%;
+	align-items: center;
+}
+
+#navLinks {
+	list-style: none;
+}
+
+#navLinks li {
+	display: inline-block;
+	padding: 0px 20px;
+}
+
+#navLinks li a {
+	transition: all 0.3s ease 0s;
+}
+
+#navLinks li a:hover {
+	color: lightgoldenrodyellow
+}
+
+#logo {
+	margin-right: auto;
+}
+
+#documents {
+	padding: 20px 10%;
+	margin-right: 20px;
+	float: left;
+}
+
+/* Making sure the hyperlink is black */
+#link {
+	text-decoration: none; 
+	color: black;
+}
+
+/* Meet the Team header in the Team page */
+#teamHeaderDiv {
+	padding-left: 155px;
+	font-size: x-large;
+}
+
+/* Body of the Team page */
+#teamBodyDiv {
+	padding-left: 175px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+/* Team Picture in the Team page */
+#teamPic {
+	margin-right: 15px;
+	float: left;
+}
+
+/* The font size for the description of each member */
+#teamBioP {
+	font-size: 23px;
+}
+
+/* Each name for the dev team */
+#name {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+/* Thank you header for the index page */
+#indexThanks {
+	font-size: 60px;
+	text-align: center;
+}
+
+/* Thank you letter to everyone in the index page */
+#pThanks, #projectDesc {
+	padding-left: 125px;
+	padding-right: 125px;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+/* Logo in the about the project tag */
+#logo {
+	display:block;
+	margin: 0 auto;
+}
+
+/* #projectDesc {
+	padding-left: 175px;
+	padding-right: 175px;
+	text-align: center;
+	font-size: 25px;
+
+} */
