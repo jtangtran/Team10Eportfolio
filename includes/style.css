@@ -102,7 +102,6 @@ header {
 	padding-right: 125px;
 	text-align: center;
 	font-size: 30px;
-
 }
 
 /* Logo in the about the project tag */
@@ -110,11 +109,3 @@ header {
 	display:block;
 	margin: 0 auto;
 }
-
-/* #projectDesc {
-	padding-left: 175px;
-	padding-right: 175px;
-	text-align: center;
-	font-size: 25px;
-
-} */
