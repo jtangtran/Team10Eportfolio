@@ -44,10 +44,6 @@ header {
 	color: lightgoldenrodyellow
 }
 
-#logo {
-	margin-right: auto;
-}
-
 #documents {
 	padding: 20px 10%;
 	margin-right: 20px;
@@ -108,4 +104,9 @@ header {
 #logo {
 	display:block;
 	margin: 0 auto;
+}
+
+#navLogo {
+	position: absolute;
+	left: 125px;
 }
