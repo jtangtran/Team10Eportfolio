@@ -87,6 +87,11 @@ header {
 	font-weight: bold;
 }
 
+#nameRight {
+	font-size: 25px;
+	font-weight: bold;
+}
+
 /* Thank you header for the index page */
 #indexThanks {
 	font-size: 60px;
@@ -177,19 +182,25 @@ display: inline-block;
 float: right;
 }
 
-#jText, #joText, #cText {
+ #joText, #cText {
+	font-size: 15px;
+	padding-left: 25px;
+}
+
+#leftPic, #cText {
+	float: left;
+	clear: left;
+}
+
+#jText {
 	font-size: 15px;
 	padding-left: 25px;
 }
 
 #landingPage {
 float: right;
-padding-left: 35px
-;}
-
-/* #projectLandingPage {
-	display: inline-block;
-} */
+padding-left: 35px;
+}
 
 #landPageAlt {
 	font-size: 15px;
@@ -201,4 +212,36 @@ margin: 0;
 	text-align: center;
 }
 
+#textLeft {
+	float: left;
+}
+
+#picRight {
+	float: right;
+}
+
+#jName {
+	text-align: right;
+	font-weight: bold;
+	float: right;
+}
+
+#jPic {
+	float: right;
+	clear: right;
+	padding-left: 15px;
+}
+
+#middleText {
+	padding-top: 65px;
+	text-align: right;
+}
+
+#spaceUp {
+	padding-top: 5px;
+}
+
+#spaceMoreUp {
+	padding-top: 12px;
+}
 
