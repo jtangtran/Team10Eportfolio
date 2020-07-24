@@ -87,6 +87,12 @@ header {
 	font-weight: bold;
 }
 
+#cName {
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
 #nameRight {
 	font-size: 25px;
 	font-weight: bold;
@@ -187,6 +193,11 @@ float: right;
 	padding-left: 25px;
 }
 
+#landPageText{
+	font-size: 15px;
+	padding-left: 255px;
+}
+
 #leftPic, #cText {
 	float: left;
 	clear: left;
@@ -210,6 +221,7 @@ margin: 0;
 
 #pdf {
 	text-align: center;
+	padding-top: 25px;
 }
 
 #textLeft {
