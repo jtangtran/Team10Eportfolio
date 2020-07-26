@@ -166,17 +166,10 @@ header {
 	font-size: 25px;
 }
 
-#footerBackground {
-	background-color: #282828;
-}
 
 #footerText {
 	color: white;
 }
-/* 
-#theTeam, #project, #linksToDocs {
-	padding-left: 30px;
-} */
 
 h1 {
 	/* text-align: center; */
@@ -257,3 +250,6 @@ margin: 0;
 	padding-top: 12px;
 }
 
+#toTheSideNav {
+	justify-items: end;
+}
