@@ -4,6 +4,4 @@ $(document).ready(function() {
         $("#navBar-placeholder").load("navBar.html");
         $("#footer").load("footer.html");
     });
-
-
 });
